@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "d8ae00e1-ff04-49dc-a353-ae4b657ef195",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "Text_KeFuTitle_@2x": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "88979208-64fc-43f7-84af-26dee5de8191",
+      "importer": "sprite-frame",
       "rawTextureUuid": "d8ae00e1-ff04-49dc-a353-ae4b657ef195",
       "trimType": "auto",
       "trimThreshold": 1,

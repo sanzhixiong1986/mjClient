@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "dae72f69-599b-43ef-998b-0dacbbe35eac",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "Button_JoinRoom_@2x": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "861259ec-a0b4-4da3-befb-3d11cf7a5b49",
+      "importer": "sprite-frame",
       "rawTextureUuid": "dae72f69-599b-43ef-998b-0dacbbe35eac",
       "trimType": "auto",
       "trimThreshold": 1,

@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "4d191c63-5a41-4b83-8768-5e031abf1e27",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "UserLoginSceneBG": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "fa9972f0-1948-42a6-a5a3-1550bd0eca9f",
+      "importer": "sprite-frame",
       "rawTextureUuid": "4d191c63-5a41-4b83-8768-5e031abf1e27",
       "trimType": "auto",
       "trimThreshold": 1,

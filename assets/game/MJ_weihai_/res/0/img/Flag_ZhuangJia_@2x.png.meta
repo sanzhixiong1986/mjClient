@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "6d53bdcd-022b-46c6-902e-6ee27ea97a6c",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "Flag_ZhuangJia_@2x": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "094d866d-6732-43d1-a28e-158f6bb8f392",
+      "importer": "sprite-frame",
       "rawTextureUuid": "6d53bdcd-022b-46c6-902e-6ee27ea97a6c",
       "trimType": "auto",
       "trimThreshold": 1,

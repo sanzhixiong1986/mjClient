@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "afb8ecdd-3c1c-4f90-875b-b32df2d5e68b",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "RoomCardBG@2x": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "75ecb822-e922-47e3-b881-e6915bff5b55",
+      "importer": "sprite-frame",
       "rawTextureUuid": "afb8ecdd-3c1c-4f90-875b-b32df2d5e68b",
       "trimType": "auto",
       "trimThreshold": 1,

@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "a72c5dd2-b1b2-4f8d-8c2b-73d6cfa4a303",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "SettingDialogBG@2x": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "bf8854b6-0802-40c8-ad71-6f1b1e0b625a",
+      "importer": "sprite-frame",
       "rawTextureUuid": "a72c5dd2-b1b2-4f8d-8c2b-73d6cfa4a303",
       "trimType": "auto",
       "trimThreshold": 1,

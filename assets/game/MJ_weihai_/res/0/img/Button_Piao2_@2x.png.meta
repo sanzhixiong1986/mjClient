@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "b8c14db6-7434-4e53-b09f-a579567e0fef",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "Button_Piao2_@2x": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "6bd34056-dd8a-4e21-840b-77470446d4dd",
+      "importer": "sprite-frame",
       "rawTextureUuid": "b8c14db6-7434-4e53-b09f-a579567e0fef",
       "trimType": "auto",
       "trimThreshold": 1,

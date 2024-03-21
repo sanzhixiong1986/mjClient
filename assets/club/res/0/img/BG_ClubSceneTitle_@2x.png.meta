@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "0e70b7a8-ea02-4887-a4b5-28af99c2ed58",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "BG_ClubSceneTitle_@2x": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "88b1bd65-d627-437f-b35b-9662a64e6442",
+      "importer": "sprite-frame",
       "rawTextureUuid": "0e70b7a8-ea02-4887-a4b5-28af99c2ed58",
       "trimType": "auto",
       "trimThreshold": 1,

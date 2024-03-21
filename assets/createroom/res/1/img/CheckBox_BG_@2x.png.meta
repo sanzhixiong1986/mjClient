@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "b55af2af-7b08-4691-ab61-f37d8cbcc2a8",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "CheckBox_BG_@2x": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "8b1b5c19-c7ca-43ec-a784-dd5c959f39a9",
+      "importer": "sprite-frame",
       "rawTextureUuid": "b55af2af-7b08-4691-ab61-f37d8cbcc2a8",
       "trimType": "auto",
       "trimThreshold": 1,

@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "e1e68ce8-2973-4b87-896f-f63b4d902cd4",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "Button_RealNameAuth_@2x": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "383ac141-7ee9-4960-83c5-6a95de4f6bfd",
+      "importer": "sprite-frame",
       "rawTextureUuid": "e1e68ce8-2973-4b87-896f-f63b4d902cd4",
       "trimType": "auto",
       "trimThreshold": 1,

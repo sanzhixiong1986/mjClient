@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "4beae20b-37cd-48ad-a137-aeef58472428",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "RadioButton_BG_@2x": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "cb9ea02a-6e41-45d5-a2a4-c43ad6de9712",
+      "importer": "sprite-frame",
       "rawTextureUuid": "4beae20b-37cd-48ad-a137-aeef58472428",
       "trimType": "auto",
       "trimThreshold": 1,

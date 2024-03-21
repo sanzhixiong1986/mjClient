@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "29c6c3bc-6cf8-4889-a5d4-b09ba60c4346",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "Flag_LuanMao_1_@2x": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "0df908a9-7a59-40cf-8482-b21b65d09c22",
+      "importer": "sprite-frame",
       "rawTextureUuid": "29c6c3bc-6cf8-4889-a5d4-b09ba60c4346",
       "trimType": "auto",
       "trimThreshold": 1,

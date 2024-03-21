@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "a29d7ba6-5071-4a79-8eb3-9bd51062ccd1",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "RecordDialogBG@2x": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "b20fbf8a-3239-46ec-96f4-f2fce5d90cf9",
+      "importer": "sprite-frame",
       "rawTextureUuid": "a29d7ba6-5071-4a79-8eb3-9bd51062ccd1",
       "trimType": "auto",
       "trimThreshold": 1,

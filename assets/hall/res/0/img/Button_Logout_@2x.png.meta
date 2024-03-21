@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "534582db-f6fe-4403-8dfb-6cd76f00ffd1",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "Button_Logout_@2x": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "385cbd33-ea56-4c10-a581-a6423c92a93d",
+      "importer": "sprite-frame",
       "rawTextureUuid": "534582db-f6fe-4403-8dfb-6cd76f00ffd1",
       "trimType": "auto",
       "trimThreshold": 1,

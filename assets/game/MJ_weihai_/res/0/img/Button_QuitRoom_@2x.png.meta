@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "0035f0e1-c908-4c8c-9429-a77439e8be7b",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "Button_QuitRoom_@2x": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "1bec80e6-5446-463c-b845-56db6ee94762",
+      "importer": "sprite-frame",
       "rawTextureUuid": "0035f0e1-c908-4c8c-9429-a77439e8be7b",
       "trimType": "auto",
       "trimThreshold": 1,

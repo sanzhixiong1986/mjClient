@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "a52f0614-33b9-4979-8641-c1f425a996eb",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "GeoLocation_BG@2x": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "81a899b6-7c84-4b84-849b-06025833ee66",
+      "importer": "sprite-frame",
       "rawTextureUuid": "a52f0614-33b9-4979-8641-c1f425a996eb",
       "trimType": "auto",
       "trimThreshold": 1,

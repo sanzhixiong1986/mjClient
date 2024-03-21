@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "4b140e20-71d6-4a3a-85d0-46e16804fb06",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "Button_ExchangeRoomCard_@2x": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "e19f4bec-4240-4427-8b87-d073051585b8",
+      "importer": "sprite-frame",
       "rawTextureUuid": "4b140e20-71d6-4a3a-85d0-46e16804fb06",
       "trimType": "auto",
       "trimThreshold": 1,

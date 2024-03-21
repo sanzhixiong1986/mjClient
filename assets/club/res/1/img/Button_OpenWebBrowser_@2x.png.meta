@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "15c32eb8-ea20-4130-b33c-c6ae0935ce29",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "Button_OpenWebBrowser_@2x": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "6dae8ab7-335e-4fb6-96af-a641a75c2a6b",
+      "importer": "sprite-frame",
       "rawTextureUuid": "15c32eb8-ea20-4130-b33c-c6ae0935ce29",
       "trimType": "auto",
       "trimThreshold": 1,

@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "c297c32d-25dd-4f83-9872-7b4907acf7fd",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "Toggle_Open_@2x": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "79700201-ecad-40d2-8c65-150c552653db",
+      "importer": "sprite-frame",
       "rawTextureUuid": "c297c32d-25dd-4f83-9872-7b4907acf7fd",
       "trimType": "auto",
       "trimThreshold": 1,

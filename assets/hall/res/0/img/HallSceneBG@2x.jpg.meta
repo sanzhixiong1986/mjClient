@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "9e6ab0fd-e436-4e7a-95db-5cb8f94fefa1",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "HallSceneBG@2x": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "adf574fe-42b9-4e5f-a687-05f7ae6aed6a",
+      "importer": "sprite-frame",
       "rawTextureUuid": "9e6ab0fd-e436-4e7a-95db-5cb8f94fefa1",
       "trimType": "auto",
       "trimThreshold": 1,

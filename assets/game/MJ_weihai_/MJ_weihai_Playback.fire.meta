@@ -1,6 +1,7 @@
 {
-  "ver": "1.2.9",
+  "ver": "1.3.2",
   "uuid": "ee9682de-c6f0-4c4e-8b91-59d8d7522673",
+  "importer": "scene",
   "asyncLoadAssets": false,
   "autoReleaseAssets": true,
   "subMetas": {}

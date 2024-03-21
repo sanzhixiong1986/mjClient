@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "25481a55-80e4-4ec0-a61a-ce1725a0cee7",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "Text_ZhanJiTitle_@2x": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "45f2f665-3e49-4e59-9122-bde7f867f8a1",
+      "importer": "sprite-frame",
       "rawTextureUuid": "25481a55-80e4-4ec0-a61a-ce1725a0cee7",
       "trimType": "auto",
       "trimThreshold": 1,

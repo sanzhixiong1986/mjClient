@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "2f28f9c4-451b-45fb-ad3d-eaad5540b4a7",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "Text_XiangQingTitle_@2x": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "15909c42-8252-4530-b706-b0ec63502e0a",
+      "importer": "sprite-frame",
       "rawTextureUuid": "2f28f9c4-451b-45fb-ad3d-eaad5540b4a7",
       "trimType": "auto",
       "trimThreshold": 1,

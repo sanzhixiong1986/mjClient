@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "097bc7b5-1037-4745-88ed-192e9cdb7cd6",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "MahjongVal_22_@2x": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "654de9f5-d844-46b2-ba8e-7acf970d5646",
+      "importer": "sprite-frame",
       "rawTextureUuid": "097bc7b5-1037-4745-88ed-192e9cdb7cd6",
       "trimType": "auto",
       "trimThreshold": 1,

@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "b02eaf4e-65ad-42c2-bca2-d5812ec0a9b4",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "ProgressBarVal@2x": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "3ac6e782-019e-43a6-81bf-7dae8159d235",
+      "importer": "sprite-frame",
       "rawTextureUuid": "b02eaf4e-65ad-42c2-bca2-d5812ec0a9b4",
       "trimType": "auto",
       "trimThreshold": 1,

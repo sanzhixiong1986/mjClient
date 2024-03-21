@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "988bac03-6793-4198-bf92-7a1986309a5d",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "RoomCardIcon@2x": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "e7c021b0-8c39-4253-945f-89ca7cdb37c1",
+      "importer": "sprite-frame",
       "rawTextureUuid": "988bac03-6793-4198-bf92-7a1986309a5d",
       "trimType": "auto",
       "trimThreshold": 1,

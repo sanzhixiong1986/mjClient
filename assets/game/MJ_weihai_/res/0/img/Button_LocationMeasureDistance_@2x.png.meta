@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "e54142e9-1908-4a65-b9d6-fce96b639e81",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "Button_LocationMeasureDistance_@2x": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "f1bda9d2-b501-4644-ab77-6c11b0b1e610",
+      "importer": "sprite-frame",
       "rawTextureUuid": "e54142e9-1908-4a65-b9d6-fce96b639e81",
       "trimType": "auto",
       "trimThreshold": 1,

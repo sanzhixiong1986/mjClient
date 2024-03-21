@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "99e7df59-1758-40de-96e6-49e3645dd5aa",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "Button_RejectNewMember_@2x": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "c5761852-2f1d-47dd-aa75-8c532eaa5b3d",
+      "importer": "sprite-frame",
       "rawTextureUuid": "99e7df59-1758-40de-96e6-49e3645dd5aa",
       "trimType": "auto",
       "trimThreshold": 1,
